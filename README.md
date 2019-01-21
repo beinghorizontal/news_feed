@@ -7,4 +7,7 @@ pip install feedparser
 
 pip install git+https://github.com/DeepHorizons/tts
 
-As you can see we wil use deephorizon tts lib instead of gTTS which has some issues with Python3 and it requires internet connection. deephorizon uses native tts engine. Though it is windows only solution. 
+As you can see we will use deephorizon tts lib instead of gTTS which have some issues with Python3 and it requires an internet connection. Deephorizon uses native tts engine, it is fast as tts conversion will be local. Though it is windows only solution. 
+
+I have included rss feed for Moneycontrol, WSJ and cryptocurrency rss feed from cointelegraph. Uncomment the one which you intend to use. 
+
